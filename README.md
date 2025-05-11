@@ -1,4 +1,4 @@
-# SAM2_UNIMC_DEMO — Segmentazione Video con SAM2 (Ultralytics)
+# SAM2 DEMO — Segmentazione Video con SAM2 (Ultralytics)
 
 <a target="_blank" href="https://colab.research.google.com/github/lorenzo-stacchio/Sam-2-Demo-Colab/blob/main/SAM2_DEMO.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
